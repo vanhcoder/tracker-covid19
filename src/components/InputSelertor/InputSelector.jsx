@@ -1,4 +1,4 @@
-import { FormControl, InputLabel, MenuItem, Select } from '@material-ui/core';
+import { FormControl,MenuItem, Select } from '@material-ui/core';
 
 import '../InputSelertor/input-selector.css';
 
