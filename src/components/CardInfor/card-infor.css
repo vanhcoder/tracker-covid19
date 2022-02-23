@@ -1,0 +1,16 @@
+.card-container{
+    display:flex;
+    justify-content: space-evenly;
+    gap:10px;
+}
+.card{
+    flex: 1;
+    cursor: pointer;
+}
+.card__total{
+    color:gray;
+}
+.infoBox--selected{
+    transition:all 0.5s linear;
+    background-color:  rgba(216, 211, 211, 0.438) !important ;
+}

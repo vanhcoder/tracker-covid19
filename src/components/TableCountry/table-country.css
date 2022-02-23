@@ -1,0 +1,10 @@
+.table__data{
+   overflow:scroll;
+   height:300px !important;
+}
+.table__data tr:nth-of-type(odd){
+   background-color:rgb(223, 217, 217);
+}
+.table__title{
+    margin-bottom:20px;
+}
